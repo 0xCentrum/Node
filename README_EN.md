@@ -1,3 +1,5 @@
+## Concept of Centrum Node
+
 I believe in P2P technology and the decentralized systems it enables. More than just technology, these systems represent an alternative—a new "choice" for people.
 
 ### Introduction
